@@ -1,4 +1,4 @@
-# EMA Strategy on Nasdaq Futures (NQ)
+# EMA Strategy on Nasdaq Futures (NQ) (LimexQuant Course Project)
 
 This repository contains a simple trend-following strategy based on Exponential Moving Averages (EMA), applied to continuous NQ futures data.
 
